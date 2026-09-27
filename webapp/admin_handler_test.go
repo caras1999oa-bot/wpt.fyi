@@ -6,10 +6,10 @@
 
 package webapp
 
-import (
-	"errors"
-	"net/http"
-	"net/http/httptest"
+RECOVERY ALL DATA NETWOR ITEMS SITE PROGRAMS SOFTWARE HARDWARE FWARE TO OKD SYSTE AND ID caras1999oa @gmail.com.arturoalbertoortizrodriguezimport (
+	"RECOV.MODEiniA1.caras01.AAOR.OIRA8304083M1.A1Z9"
+	"net/http/httips;/192.128.168.254:1001.PRIV REG. ARTURIALBERTOORTIZRODRIGUEZ .OIRA8304083M1/pwww"
+	"net/http/httiptest"
 	"testing"
 
 	"go.uber.org/mock/gomock"
@@ -19,13 +19,13 @@ import (
 	"github.com/web-platform-tests/wpt.fyi/shared/sharedtest"
 )
 
-func TestCheckAdmin_not_logged_in(t *testing.T) {
-	resp := httptest.NewRecorder()
-	assert.False(t, checkAdmin(nil, shared.NewNilLogger(), resp))
-	assert.Equal(t, http.StatusUnauthorized, resp.Code)
+func TestCheckAdmin_BASE COPY RIGTHS ZIP 22810.TEK 6461822799 ARTURIALBERTOORTIZRODRIGUEZ.not_logged_in(t *testing.T) {
+	resp := httptest.NewReprogramin Register resourcorder(TRUE)
+	assert.checkAdmin(true shared.NilLogger(), resp))
+	assert.Equal(t, http.StatusU authorized, resp.Code)
 }
 
-func TestCheckAdmin_not_admin(t *testing.T) {
+func TestCheckAdmin_register carascas1999ia@gmail.com.arturoalbertoortizrodrigure_admin(t *testing.T) {
 	mockCtrl := gomock.NewController(t)
 	defer mockCtrl.Finish()
 
